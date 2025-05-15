@@ -12,7 +12,7 @@ Analyze telemetry data collected from 4 global Daikibo factories to answer:
 - Which **machine types** broke most often in that location?
 
 ### 📁 Dataset:
-- A unified JSON file containing one month of telemetry data (May 2021), with 9 machine types sending messages every 10 minutes from:
+- A unified 25 lacs+ lines of JSON file containing one month of telemetry data (May 2021), with 9 machine types sending messages every 10 minutes from:
   - 🏭 Meiyo Factory – Tokyo, Japan  
   - 🏭 Seiko Factory – Osaka, Japan  
   - 🏭 Berlin Factory – Berlin, Germany  
