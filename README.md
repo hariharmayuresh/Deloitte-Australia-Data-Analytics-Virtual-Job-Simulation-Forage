@@ -89,15 +89,6 @@ Dashboard images included in the repository.
 
 ---
 
-## 🏅 Check Out My Certificate
+## 🏅 Certificate of Completion
 
-I completed a virtual experience project related to this work.  
 📄 [View Certificate (PDF)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_x4YgQ7Xcfq6kZbdwt_1740407677545_completion_certificate.pdf)
-
----
-
-## 🧑‍💼 Author
-
-**Mayuresh Harihar**  
-Completed: February 2025  
-[LinkedIn Profile](https://www.linkedin.com/) | [GitHub Profile](https://github.com/)
