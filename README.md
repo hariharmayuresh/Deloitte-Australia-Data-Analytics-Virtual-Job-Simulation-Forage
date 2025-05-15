@@ -89,8 +89,12 @@ Dashboard images included in the repository.
 
 ---
 
-## Checkout my Certificte
-https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_x4YgQ7Xcfq6kZbdwt_1740407677545_completion_certificate.pdf
+## 🏅 Check Out My Certificate
+
+I completed a virtual experience project related to this work.  
+📄 [View Certificate (PDF)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_x4YgQ7Xcfq6kZbdwt_1740407677545_completion_certificate.pdf)
+
+---
 
 ## 🧑‍💼 Author
 
