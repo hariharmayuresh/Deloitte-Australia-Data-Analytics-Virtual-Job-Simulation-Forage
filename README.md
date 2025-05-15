@@ -76,9 +76,10 @@ Dashboard images included in the repository.
 ---
 
 ## 📂 Files Included
-- `telemetry_dashboard.png` – Final Tableau dashboard screenshot  
-- `equality_table_edited.xlsx` – Completed Excel classification task  
+- `.png files` – Tableau dashboard screenshot  
+- `Task 2 Equality Table.xlsx` – Completed Excel classification task  
 - `README.md` – Project documentation
+- `daikibo-telemetry-data.json` - 25 lacs+ lines of telementory factory -machine json data 
 
 ---
 
