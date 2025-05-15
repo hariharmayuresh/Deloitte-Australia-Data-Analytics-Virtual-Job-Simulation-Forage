@@ -65,6 +65,16 @@ Investigate gender pay equality issues within Daikibo Industrials by analyzing r
 
 ---
 
+### 📸 Screenshot:
+
+Dashboard images included in the repository.
+
+<p align="center">
+  <img src="Equality class.png" width="45%" alt="Excel Screenshot 1"/>
+</p>
+
+---
+
 ## 📂 Files Included
 - `telemetry_dashboard.png` – Final Tableau dashboard screenshot  
 - `equality_table_edited.xlsx` – Completed Excel classification task  
