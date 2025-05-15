@@ -31,8 +31,8 @@ Analyze telemetry data collected from 4 global Daikibo factories to answer:
 Dashboard images included in the repository.
 
 <p align="center">
-  <img src="Tableu dashboard 1.png" width="45%" alt="Dashboard Screenshot 1"/>
-  <img src="Tableu dashboard 2.png" width="45%" alt="Dashboard Screenshot 2"/>
+  <img src="Tableau dashboard 1.png" width="45%" alt="Dashboard Screenshot 1"/>
+  <img src="Tableau dashboard 2.png" width="45%" alt="Dashboard Screenshot 2"/>
 </p>
 
 ---
